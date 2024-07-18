@@ -1545,3 +1545,94 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.07.18-17.40.46:502][ 29]AssetCheck: New page: Asset Save: multiple assets
 [2024.07.18-17.40.46:502][ 29]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainMap_BuiltData.MainMap_BuiltData
 [2024.07.18-17.40.46:502][ 29]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2024.07.18-17.42.21:767][  1]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.07.18-17.42.21:776][  1]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.07.18-17.42.21:792][  1]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.07.18-17.43.06:155][ 68]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.07.18-17.43.06:155][ 68]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.07.18-17.43.06:166][ 68]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_
+[2024.07.18-17.43.06:177][ 68]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.07.18-17.43.18:806][395]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.07.18-17.43.18:806][395]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.07.18-17.43.29:905][618]LogContentBrowser: Attempting asset rename: BP_ -> BP_ThirdClass
+[2024.07.18-17.43.29:941][618]LogMetaData: Removing '/Game/BP_ThirdClass.BP_ThirdClass:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_.PackageMetaData'
+[2024.07.18-17.43.29:941][618]LogMetaData: Removing '/Game/BP_ThirdClass.SKEL_BP_ThirdClass_C:UserConstructionScript' ref from Metadata '/Game/BP_.PackageMetaData'
+[2024.07.18-17.43.29:941][618]LogMetaData: Removing '/Game/BP_ThirdClass.SKEL_BP_ThirdClass_C' ref from Metadata '/Game/BP_.PackageMetaData'
+[2024.07.18-17.43.29:941][618]LogMetaData: Removing '/Game/BP_ThirdClass.BP_ThirdClass_C' ref from Metadata '/Game/BP_.PackageMetaData'
+[2024.07.18-17.43.29:941][618]LogMetaData: Removing '/Game/BP_ThirdClass.BP_ThirdClass:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_.PackageMetaData'
+[2024.07.18-17.43.29:941][618]LogMetaData: Removing '/Game/BP_ThirdClass.BP_ThirdClass:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_.PackageMetaData'
+[2024.07.18-17.43.29:941][618]LogMetaData: Removing '/Game/BP_ThirdClass.BP_ThirdClass:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_.PackageMetaData'
+[2024.07.18-17.43.29:976][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ThirdClass" FILE="../../../../../../Github/UELess4/Content/BP_ThirdClass.uasset" SILENT=true
+[2024.07.18-17.43.29:983][618]LogSavePackage: Moving '../../../../../../Github/UELess4/Saved/BP_ThirdClassEF96452B4A124DCEAF0B648D8BB16FF2.tmp' to '../../../../../../Github/UELess4/Content/BP_ThirdClass.uasset'
+[2024.07.18-17.43.30:094][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2024.07.18-17.43.30:138][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.07.18-17.43.30:169][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.07.18-17.43.30:208][618]AssetCheck: New page: Asset Save: BP_ThirdClass
+[2024.07.18-17.43.30:208][618]LogContentValidation: Display: Validating Blueprint /Game/BP_ThirdClass.BP_ThirdClass
+[2024.07.18-17.43.33:178][909]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_ThirdClass.BP_ThirdClass
+[2024.07.18-17.44.26:856][  4]BlueprintLog: New page: Compile BP_ThirdClass
+[2024.07.18-17.44.26:916][  4]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2024.07.18-17.44.28:043][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ThirdClass" FILE="../../../../../../Github/UELess4/Content/BP_ThirdClass.uasset" SILENT=true
+[2024.07.18-17.44.28:053][107]LogSavePackage: Moving '../../../../../../Github/UELess4/Saved/BP_ThirdClassD4A385B9496DD505618C43B5F66169FC.tmp' to '../../../../../../Github/UELess4/Content/BP_ThirdClass.uasset'
+[2024.07.18-17.44.28:067][107]AssetCheck: New page: Asset Save: BP_ThirdClass
+[2024.07.18-17.44.28:067][107]LogContentValidation: Display: Validating Blueprint /Game/BP_ThirdClass.BP_ThirdClass
+[2024.07.18-17.44.51:373][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Github/UELess4/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.18-17.44.51:417][652]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2024.07.18-17.44.51:429][652]LogSavePackage: Moving '../../../../../../Github/UELess4/Saved/MainMap42EEB7EA4D1FBC4D97240F8A67BEAAF1.tmp' to '../../../../../../Github/UELess4/Content/MainMap.umap'
+[2024.07.18-17.44.51:433][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../../Github/UELess4/Content/MainMap_BuiltData.uasset" SILENT=true
+[2024.07.18-17.44.51:450][652]LogSavePackage: Moving '../../../../../../Github/UELess4/Saved/MainMap_BuiltDataE57A3E5142B39D057245BA8767745637.tmp' to '../../../../../../Github/UELess4/Content/MainMap_BuiltData.uasset'
+[2024.07.18-17.44.51:465][652]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.18-17.44.51:465][652]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainMap_BuiltData.MainMap_BuiltData
+[2024.07.18-17.44.51:465][652]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2024.07.18-17.44.54:149][907]LogTemp: Repeating last play command: Selected Viewport
+[2024.07.18-17.44.54:155][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.18-17.44.54:155][907]PIE: New page: PIE session: MainMap (18 июл. 2024 г., 23:44:54)
+[2024.07.18-17.44.54:156][907]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2024.07.18-17.44.54:158][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002803s)
+[2024.07.18-17.44.54:159][907]LogAIModule: Creating AISystem for world MainMap
+[2024.07.18-17.44.54:160][907]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2024.07.18-17.44.54:160][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.004272s)
+[2024.07.18-17.44.54:199][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2024.07.18-17.44.54:200][907]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.07.18-17.44.54:200][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.18-17.44.54:200][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.18-17.44.54:200][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.18-17.44.54:200][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.18-17.44.54:200][907]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.18-17.44.54:200][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.18-17.44.54:200][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.18-17.44.54:200][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.18-17.44.54:201][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.18-17.44.54:201][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.18-17.44.54:201][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.18-17.44.54:201][907]LogAudioMixer: Display: Initializing audio mixer.
+[2024.07.18-17.44.54:208][907]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.18-17.44.54:208][907]LogAudioMixer: Display: 1: FrontRight
+[2024.07.18-17.44.54:227][907]LogAudioMixer: Display: Using Audio Device Наушники (EDIFIER W800BT Plus Stereo)
+[2024.07.18-17.44.54:227][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.18-17.44.54:227][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.18-17.44.54:227][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.18-17.44.54:228][907]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.07.18-17.44.54:228][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.07.18-17.44.54:228][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.07.18-17.44.54:229][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.07.18-17.44.54:229][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.07.18-17.44.54:229][907]LogInit: FAudioDevice initialized.
+[2024.07.18-17.44.54:229][907]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainMap'.
+[2024.07.18-17.44.54:241][907]LogLoad: Game class is 'GameModeBase'
+[2024.07.18-17.44.54:243][907]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.07.18-20.44.54
+[2024.07.18-17.44.54:243][907]LogWorld: Bringing up level for play took: 0.000881
+[2024.07.18-17.44.54:243][907]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2024.07.18-17.44.54:246][907]PIE: Server logged in
+[2024.07.18-17.44.54:246][907]PIE: Play in editor total start time 0,094 seconds.
+[2024.07.18-17.45.07:005][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.18-17.45.07:005][411]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2024.07.18-17.45.07:005][411]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.18-17.45.07:006][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.18-17.45.07:021][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.18-17.45.07:033][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.18-17.45.07:072][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.18-17.45.07:072][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.18-17.45.07:074][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.18-17.45.07:081][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2024.07.18-17.45.07:109][412]LogPlayLevel: Display: Destroying online subsystem :Context_19
